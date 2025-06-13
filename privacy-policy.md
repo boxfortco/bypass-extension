@@ -1,6 +1,6 @@
 # Privacy Policy for Bypass Chrome Extension
 
-**Last updated: [Current Date]**
+**Last updated: June 13, 2025**
 
 ## Data Collection
 This extension does not collect, store, transmit, or access any personal user data.
