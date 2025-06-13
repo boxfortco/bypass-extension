@@ -15,4 +15,4 @@ No user information, search queries, or browsing data is collected, stored, or s
 The extension operates entirely within your browser and does not communicate with external servers.
 
 ## Contact
-For questions about this privacy policy, please contact: [your-email@example.com]
+For questions about this privacy policy, please contact: [hello@boxfort.co]
